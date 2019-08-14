@@ -707,18 +707,18 @@ a.back-to-top:hover, a.back-to-top:focus {
 /* ==========================================================================
 3. Hero Area
 ========================================================================== */
-.hero-area-bg {
-  background: url(../img/hero-area.jpg) no-repeat;
+.hero-area1-bg {
+  background: url(../img/hero-area1.jpg) no-repeat;
   background-size: cover;
 }
 
-#hero-area {
+#hero-area1 {
   color: #fff;
   overflow: hidden;
   position: relative;
 }
 
-#hero-area .overlay {
+#hero-area1 .overlay {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -728,15 +728,15 @@ a.back-to-top:hover, a.back-to-top:focus {
   opacity: 0.6;
 }
 
-#hero-area .contents {
+#hero-area1 .contents {
   padding: 175px 0px 120px;
 }
 
-#hero-area .contents h5 {
+#hero-area1 .contents h5 {
   font-size: 50px;
 }
 
-#hero-area .contents .head-title {
+#hero-area1 .contents .head-title {
   color: #fff;
   font-size: 80px;
   letter-spacing: 10px;
@@ -744,7 +744,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   font-weight: 700;
 }
 
-#hero-area .contents p {
+#hero-area1 .contents p {
   font-size: 30px;
   color: #fff;
   font-weight: 400;
@@ -752,16 +752,16 @@ a.back-to-top:hover, a.back-to-top:focus {
   margin-bottom: 25px;
 }
 
-#hero-area .contents .btn {
+#hero-area1 .contents .btn {
   margin: 25px 0px;
   text-transform: uppercase;
 }
 
-#hero-area .banner_bottom_btn {
+#hero-area1 .banner_bottom_btn {
   margin-top: 40px;
 }
 
-#hero-area .banner_bottom_btn i {
+#hero-area1 .banner_bottom_btn i {
   color: #fff;
   font-size: 48px;
   -webkit-transition: all 0.2s linear;
@@ -770,7 +770,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   transition: all 0.2s linear;
 }
 
-#hero-area .banner_bottom_btn i:hover {
+#hero-area1 .banner_bottom_btn i:hover {
   color: #ddd;
 }
 
